@@ -1,0 +1,98 @@
+  h1{
+    font-size: 4rem;
+    font-weight: 800;
+    color: #025940;
+    line-height: 2rem;
+  }
+
+p {
+
+  font-size: 1rem;
+}
+
+h2{
+  letter-spacing: 0.2rem;
+    font-size: 1rem;
+}
+
+h3{
+  padding-bottom: 2%;
+}
+
+img{
+  width: 20px;
+}
+
+.explain{
+  margin: 3%;
+  padding: 3%;
+padding-left: 29%;
+background-color: #79CCCD;
+color: #1E343A;
+line-height: 2rem;
+text-align: left;
+letter-spacing: 0.1rem;
+
+}
+  body{
+    text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+  background-color: #F2F2F2;
+  color: #A0D9B4;
+
+  }
+
+.spaceBTN{
+  padding: 3% 3%;
+}
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background-color: #79CCCD;
+	border-radius:6px;
+	border:0px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#777777;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+
+	.btn:hover {
+	background-color:#A0D9B4;
+}
+ &:active {
+	position:relative;
+	top: 7%;
+}
+ }
+
+
+.spaceBTN{
+  padding-top: 5%;
+}
+
+.chooseColor{
+  font-size: 0.8rem;
+}
+
+.selectChangeColor{
+  cursor: pointer;
+  border-radius:  5px;
+  padding: 6px 10px;
+  font-size: 0.7rem;
+}
+
+.select{
+    padding: 3% 15% 7%;
+
+}
+
+.footer{
+  padding: 10% 15% 7%;
+    font-size: 0.5rem;
+}
